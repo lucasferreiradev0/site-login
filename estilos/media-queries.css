@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+:root {
+    /* Paleta de cores do site */
+    --corFundo01: #0FC2C0;
+    --corFundo02: #015958;
+}
+
+@media screen and (min-width: 768px) {
+    
+    body, html {
+        background-image: linear-gradient(to top, #c8e0e0 #edf5f5);
+    }
+
+}
